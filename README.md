@@ -18,3 +18,5 @@ using [Booth's Multiplication Algorithm](https://en.wikipedia.org/wiki/Booth%27s
 <p align="center">
   <img width="460" height="300" src="https://github.com/aaiahmed/ieee-floating-point-multiplier/blob/main/image/Multiplier.png">
 </p>
+
+![Mutliplier](image/Multiplier.png)
